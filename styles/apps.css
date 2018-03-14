@@ -1,0 +1,76 @@
+/* this is the css file for Betty G White website*/
+body {
+  color: white;
+  font-size: 20px;
+  font-family: serif;
+  background: #333;
+  border: 5px solid #777;
+  margin: 60px;
+  padding: 20px;
+  
+}
+.bookend {
+    margin: 20px 0px;
+    padding: 20px 0px 20px 0px;
+}
+.bookend-title {
+	font-size: 50px;
+	text-align: center;
+	font-style: italic;
+}
+.nav {
+	text-align: center;
+}
+.nav-link {
+	color: #0c6;
+	text-decoration: underline;
+	border-right: 2px solid #777;
+}
+.nav-link--selected {
+	color: white;
+	text-decoration: none;
+	font-weight: bolder;
+	pointer-events: none;
+	
+}
+.nav-link:last-child {
+	border-right: none;
+}
+.content-title {
+	font-size: 30px;
+	font-family: serif;
+	margin: 10px 0;
+}
+.content-asset {
+	padding: 2px;
+	margin: 15px;
+	border: 1px solid white;
+}
+.content-asset--right {
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
